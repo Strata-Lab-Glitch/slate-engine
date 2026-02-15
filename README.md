@@ -78,3 +78,6 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
 *Developed with ☕ and passion by Strata Tech.*
+
+Download Pre Alpha:
+[Itch.io](https://github.com/Strata1-Tech/slate/releases)
